@@ -9,5 +9,4 @@
 
 
 
-- 🌱 estudando python
-- 😄 pronomes: ele/dele
+- 🌱 estudando python e HTML
